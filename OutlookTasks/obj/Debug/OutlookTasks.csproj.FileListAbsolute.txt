@@ -1,0 +1,10 @@
+C:\Users\SOI\AppData\Local\Temporary Projects\OutlookTasks\bin\Debug\OutlookTasks.dll
+C:\Users\SOI\AppData\Local\Temporary Projects\OutlookTasks\bin\Debug\OutlookTasks.pdb
+C:\Users\SOI\AppData\Local\Temporary Projects\OutlookTasks\obj\Debug\OutlookTasks.csproj.ResolveComReference.cache
+C:\Users\SOI\AppData\Local\Temporary Projects\OutlookTasks\obj\Debug\OutlookTasks.dll
+C:\Users\SOI\AppData\Local\Temporary Projects\OutlookTasks\obj\Debug\OutlookTasks.pdb
+C:\Users\SOI\Dropbox\Projects\OutlookTasks\OutlookTasks\bin\Debug\OutlookTasks.dll
+C:\Users\SOI\Dropbox\Projects\OutlookTasks\OutlookTasks\bin\Debug\OutlookTasks.pdb
+C:\Users\SOI\Dropbox\Projects\OutlookTasks\OutlookTasks\obj\Debug\OutlookTasks.csproj.ResolveComReference.cache
+C:\Users\SOI\Dropbox\Projects\OutlookTasks\OutlookTasks\obj\Debug\OutlookTasks.dll
+C:\Users\SOI\Dropbox\Projects\OutlookTasks\OutlookTasks\obj\Debug\OutlookTasks.pdb

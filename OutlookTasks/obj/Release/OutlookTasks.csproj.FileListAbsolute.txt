@@ -1,0 +1,11 @@
+C:\Users\SOI\AppData\Local\Temporary Projects\OutlookTasks\bin\Release\OutlookTasks.dll
+C:\Users\SOI\AppData\Local\Temporary Projects\OutlookTasks\bin\Release\OutlookTasks.pdb
+C:\Users\SOI\AppData\Local\Temporary Projects\OutlookTasks\obj\Release\OutlookTasks.csproj.ResolveComReference.cache
+C:\Users\SOI\AppData\Local\Temporary Projects\OutlookTasks\obj\Release\OutlookTasks.dll
+C:\Users\SOI\AppData\Local\Temporary Projects\OutlookTasks\obj\Release\OutlookTasks.pdb
+C:\Users\SOI\Dropbox\Projects\OutlookTasks\OutlookTasks\bin\Release\OutlookTasks.dll
+C:\Users\SOI\Dropbox\Projects\OutlookTasks\OutlookTasks\bin\Release\OutlookTasks.pdb
+C:\Users\SOI\Dropbox\Projects\OutlookTasks\OutlookTasks\obj\Release\OutlookTasks.csproj.ResolveComReference.cache
+C:\Users\SOI\Dropbox\Projects\OutlookTasks\OutlookTasks\obj\Release\OutlookTasks.dll
+C:\Users\SOI\Dropbox\Projects\OutlookTasks\OutlookTasks\obj\Release\OutlookTasks.pdb
+C:\Users\SOI\Dropbox\Projects\OutlookTasks\OutlookTasks\obj\Release\OutlookTasks.csprojResolveAssemblyReference.cache
